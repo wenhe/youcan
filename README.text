@@ -1,0 +1,102 @@
+.:
+
+ 1    233  31 22:05 blog.php
+ 1    237  31 22:05 idear.php
+ 1    225  31 22:05 index.php
+ 6   4096  31 22:56 libs
+ 1    380 Apr  1 22:16 login.php
+ 1    224 Apr  1 22:16 logout.php
+ 3   4096  30 10:24 public
+ 1      0 Apr  1 22:24 README.text
+ 1    227  31 22:05 realize.php
+ 1    223  31 22:05 recruit.php
+ 5   4096  30 21:36 views
+
+./libs:
+
+ 2   4096 Apr  1 22:15 classic
+ 2   4096  30 10:46 configs
+ 1    197  31 22:56 index.php
+ 2   4096  30 10:33 plugins
+ 4   4096  31 00:52 smarty
+
+./libs/classic:
+
+ 1   1865 Apr  1 22:15 JOB.class.php
+ 1    509 Apr  1 22:15 Login.class.php
+ 1    584  31 12:34 Request.class.php
+
+./libs/configs:
+
+ 1   68  30 10:46 test.conf
+
+./libs/plugins:
+28
+ 1   1899  30 10:33 cacheresource.apc.php
+ 1   2353  30 10:33 cacheresource.memcache.php
+ 1   5614  30 10:33 cacheresource.mysql.php
+ 1   1794  30 10:33 resource.extendsall.php
+ 1   2594  30 10:33 resource.mysql.php
+ 1   2021  30 10:33 resource.mysqls.php
+
+./libs/smarty:
+
+ 1    2863  30 10:27 debug.tpl
+ 2    4096  30 10:27 plugins
+ 1   12903  30 10:27 SmartyBC.class.php
+ 1   46138  30 23:44 Smarty.class.php
+ 2    4096  30 10:27 sysplugins
+
+./libs/smarty/plugins:
+
+
+./public:
+
+ 5   4096  30 10:24 static
+
+./public/static:
+
+ 2   4096  30 10:24 css
+ 2   4096  30 10:24 img
+ 2   4096  30 10:24 js
+
+./public/static/css:
+
+
+./public/static/img:
+
+
+./public/static/js:
+
+
+./views:
+
+ 2          4096  30 10:58 cache
+ 2          4096  31 23:39 runtime
+ 4   4096  31 23:45 templates
+
+./views/cache:
+
+
+./views/runtime:
+
+
+./views/templates:
+
+ 2   4096  31 23:45 base
+ 2   4096  30 22:24 block
+ 1    797  30 23:21 blog.tpl
+ 1    478  30 22:16 idear.tpl
+ 1    344  30 23:15 index.tpl
+ 1    293  31 00:52 login_or_out.tpl
+ 1    318  30 22:57 realize.tpl
+ 1    222  30 22:58 recruit.tpl
+
+./views/templates/base:
+
+ 1   1122  30 12:09 base.tpl
+ 1     35  30 11:33 footer.tpl
+ 1    500  31 23:37 header.tpl
+
+./views/templates/block:
+
